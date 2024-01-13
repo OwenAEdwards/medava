@@ -1,0 +1,13 @@
+1.) Why did the developers of Java use "extends" for inheritance instead of the ":" operator in C++? Did they feel it was too verbose?
+2.) I'm guessing you can use any class name for your main() method since we've used SupplyChain? I've only done basic Java where there's
+a Main class and main() method.
+3.) Did Java copy the use of the "@" symbol to signify overriding methods from Python or vice versa? I know they are called "decorators"
+in Python, what are symbols above methods like "@Override" in Java called?
+4.) Does the use of "packages" at the top of the file do the equivalent of signifying to the Java interpreter as to what C++ does when
+linking several files in a unit together as object files? C++ is my most comparable languages, I work with it every other day on co-op.
+5.) Can we use the "this" operator in Java instead of using setters and constructors like this from the code: 
+"private MedicineSchedule(int schedule) { mSchedule = schedule; }"
+6.) As a question for future reference, what kinds of projects are good to build in Java for a computer science student? I've heard Java
+being used on the backend for server-side development from my friends.
+7.) Is it standard practice to only have one class per Java file for data abstraction purposes? We do this in C++ at my co-op too if so.
+8.) Does Maven need the addition of an XML file to work within a Java Project?
